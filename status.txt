@@ -2,12 +2,7 @@ so this is the first commit :)
 
 so this is the 2nd commit :),  new branch (test1) created
 
-so this is the 3d commit :),  new branch (test2) created
+now we are in head  of 1st branch
 
-so this is 4th commit
-
-so this is 7th commit
-
-so this is 8th commit
-
+now we are merging : )
 
