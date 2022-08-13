@@ -6,3 +6,5 @@ now we are in head  of 1st branch
 
 now we are merging : )
 
+pause
+
